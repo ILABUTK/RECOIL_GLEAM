@@ -1,0 +1,1659 @@
+{
+    "metadata": "RECOIL GLEAM data - extracted from GREET 2023rev1 - MIT License - Copyright (c) 2024 Dr. Zeyu Liu",
+    "2025": {
+        "Long_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 1489.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 1303.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 405.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 1609.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1427.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 1357.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1407.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 981.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Co-Optimized": {
+                "Algae-HTL": {
+                    "GHG": 546.45,
+                    "Unit": "g/mile"
+                },
+                "Wastewater-Sludge-HTL": {
+                    "GHG": 1266.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "MCCI": {
+                "Waste-Feedstock": {
+                    "GHG": 761.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 1254.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1736.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Short_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 2753.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 2408.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 748.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 2974.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2694.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 2504.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2600.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 938.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 1342.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1858.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Rail": {
+            "Diesel-Electric": {
+                "Diesel": {
+                    "GHG": 26.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LNG": {
+                    "GHG": 23.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LPG": {
+                    "GHG": 23.0,
+                    "Unit": "g/ton.mile"
+                },
+                "DME": {
+                    "GHG": 28.0,
+                    "Unit": "g/ton.mile"
+                },
+                "FTD": {
+                    "GHG": 27.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Biodiesel-20": {
+                    "GHG": 23.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Diesel-II": {
+                    "GHG": 9.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Gasoline": {
+                    "GHG": 4.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Gaseous-Hydrogen": {
+                    "GHG": 18.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Electricity": {
+                    "GHG": 13.0,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        },
+        "Marine": {
+            "HFO": {
+                "HFO-2.7": {
+                    "GHG": 16.61,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.5": {
+                    "GHG": 16.82,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.1": {
+                    "GHG": 16.88,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MDO": {
+                "MDO-1.92": {
+                    "GHG": 15.9,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.5": {
+                    "GHG": 16.04,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.1": {
+                    "GHG": 16.09,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MGO": {
+                "MGO-1": {
+                    "GHG": 15.97,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.5": {
+                    "GHG": 16.04,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.1": {
+                    "GHG": 16.09,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "LNG": {
+                "LNG": {
+                    "GHG": 15.59,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "FTD": {
+                "Natural-Gas": {
+                    "GHG": 18.28,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Coal": {
+                    "GHG": 20.87,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Natural-Gas": {
+                    "GHG": 11.85,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 1.05,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Renewable-Diesel": {
+                "Yellow-Grease-HFO": {
+                    "GHG": 8.88,
+                    "Unit": "g/ton.mile"
+                },
+                "Yellow-Grease": {
+                    "GHG": 2.6,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "SVO": {
+                "SVO": {
+                    "GHG": 2.51,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Bio-Oil": {
+                "Pyrolysis-Oil-Woody-Biomass": {
+                    "GHG": 1.77,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Biodiesel": {
+                "Biodiesel": {
+                    "GHG": 5.66,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MeOH": {
+                "Natural-Gas": {
+                    "GHG": 23.11,
+                    "Unit": "g/ton.mile"
+                },
+                "Flare-Gas": {
+                    "GHG": 1.77,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Natural-Gas": {
+                    "GHG": -64.45,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 4.24,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        }
+    },
+    "2030": {
+        "Long_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 1342.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 1172.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 334.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 1430.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1293.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 1215.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1277.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 524.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Co-Optimized": {
+                "Algae-HTL": {
+                    "GHG": 469.27,
+                    "Unit": "g/mile"
+                },
+                "Wastewater-Sludge-HTL": {
+                    "GHG": 1140.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "MCCI": {
+                "Waste-Feedstock": {
+                    "GHG": 678.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 1056.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1333.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Short_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 2625.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 2292.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 653.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 2797.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2583.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 2373.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2492.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 516.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 1175.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1484.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Rail": {
+            "Diesel-Electric": {
+                "Diesel": {
+                    "GHG": 26.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LNG": {
+                    "GHG": 23.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LPG": {
+                    "GHG": 22.0,
+                    "Unit": "g/ton.mile"
+                },
+                "DME": {
+                    "GHG": 28.0,
+                    "Unit": "g/ton.mile"
+                },
+                "FTD": {
+                    "GHG": 27.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Biodiesel-20": {
+                    "GHG": 23.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Diesel-II": {
+                    "GHG": 9.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Gasoline": {
+                    "GHG": 4.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Gaseous-Hydrogen": {
+                    "GHG": 17.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Electricity": {
+                    "GHG": 8.0,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        },
+        "Marine": {
+            "HFO": {
+                "HFO-2.7": {
+                    "GHG": 16.51,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.5": {
+                    "GHG": 16.72,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.1": {
+                    "GHG": 16.78,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MDO": {
+                "MDO-1.92": {
+                    "GHG": 15.81,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.5": {
+                    "GHG": 15.94,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.1": {
+                    "GHG": 16.0,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MGO": {
+                "MGO-1": {
+                    "GHG": 15.87,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.5": {
+                    "GHG": 15.94,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.1": {
+                    "GHG": 15.99,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "LNG": {
+                "LNG": {
+                    "GHG": 15.56,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "FTD": {
+                "Natural-Gas": {
+                    "GHG": 18.26,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Coal": {
+                    "GHG": 20.79,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Natural-Gas": {
+                    "GHG": 11.82,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 0.99,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Renewable-Diesel": {
+                "YG&HFO": {
+                    "GHG": 8.8,
+                    "Unit": "g/ton.mile"
+                },
+                "YG": {
+                    "GHG": 2.5,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "SVO": {
+                "SVO": {
+                    "GHG": 2.39,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Bio-Oil": {
+                "PO-WB": {
+                    "GHG": 1.43,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Biodiesel": {
+                "Biodiesel": {
+                    "GHG": 5.48,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MeOH": {
+                "Natural-Gas": {
+                    "GHG": 22.74,
+                    "Unit": "g/ton.mile"
+                },
+                "FG": {
+                    "GHG": 1.41,
+                    "Unit": "g/ton.mile"
+                },
+                "RNG": {
+                    "GHG": -66.72,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 3.69,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        }
+    },
+    "2035": {
+        "Long_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 1238.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 1081.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 301.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 1316.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1293.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 1121.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1181.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 413.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Co-Optimized": {
+                "Algae-HTL": {
+                    "GHG": 434.46,
+                    "Unit": "g/mile"
+                },
+                "Wastewater-Sludge-HTL": {
+                    "GHG": 1051.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "MCCI": {
+                "Waste-Feedstock": {
+                    "GHG": 623.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 933.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1160.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Short_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 2537.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 2215.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 617.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 2697.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2498.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 2292.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2410.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 421.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 1080.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1342.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Rail": {
+            "Diesel-Electric": {
+                "Diesel": {
+                    "GHG": 26.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LNG": {
+                    "GHG": 23.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LPG": {
+                    "GHG": 22.0,
+                    "Unit": "g/ton.mile"
+                },
+                "DME": {
+                    "GHG": 28.0,
+                    "Unit": "g/ton.mile"
+                },
+                "FTD": {
+                    "GHG": 27.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Biodiesel-20": {
+                    "GHG": 22.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Diesel-II": {
+                    "GHG": 9.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Gasoline": {
+                    "GHG": 4.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Gaseous-Hydrogen": {
+                    "GHG": 17.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Electricity": {
+                    "GHG": 7.0,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        },
+        "Marine": {
+            "HFO": {
+                "HFO-2.7": {
+                    "GHG": 16.49,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.5": {
+                    "GHG": 16.7,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.1": {
+                    "GHG": 16.76,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MDO": {
+                "MDO-1.92": {
+                    "GHG": 15.79,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.5": {
+                    "GHG": 15.93,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.1": {
+                    "GHG": 15.98,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MGO": {
+                "MGO-1": {
+                    "GHG": 15.85,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.5": {
+                    "GHG": 15.91,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.1": {
+                    "GHG": 15.97,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "LNG": {
+                "LNG": {
+                    "GHG": 15.56,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "FTD": {
+                "Natural-Gas": {
+                    "GHG": 18.25,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Coal": {
+                    "GHG": 20.77,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Natural-Gas": {
+                    "GHG": 11.81,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 0.96,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Renewable-Diesel": {
+                "YG&HFO": {
+                    "GHG": 8.79,
+                    "Unit": "g/ton.mile"
+                },
+                "YG": {
+                    "GHG": 2.48,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "SVO": {
+                "SVO": {
+                    "GHG": 2.37,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Bio-Oil": {
+                "PO-WB": {
+                    "GHG": 1.35,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Biodiesel": {
+                "Biodiesel": {
+                    "GHG": 5.45,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MeOH": {
+                "Natural-Gas": {
+                    "GHG": 22.68,
+                    "Unit": "g/ton.mile"
+                },
+                "FG": {
+                    "GHG": 1.34,
+                    "Unit": "g/ton.mile"
+                },
+                "RNG": {
+                    "GHG": -67.12,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 3.88,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        }
+    },
+    "2040": {
+        "Long_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 1238.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 1080.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 299.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 1315.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1194.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 1120.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1181.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 396.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Co-Optimized": {
+                "Algae-HTL": {
+                    "GHG": 432.55,
+                    "Unit": "g/mile"
+                },
+                "Wastewater-Sludge-HTL": {
+                    "GHG": 1051.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "MCCI": {
+                "Waste-Feedstock": {
+                    "GHG": 623.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 930.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1149.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Short_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 2537.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 2214.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 613.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 2694.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2498.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 2290.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2410.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 403.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 1077.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1330.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Rail": {
+            "Diesel-Electric": {
+                "Diesel": {
+                    "GHG": 26.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LNG": {
+                    "GHG": 23.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LPG": {
+                    "GHG": 22.0,
+                    "Unit": "g/ton.mile"
+                },
+                "DME": {
+                    "GHG": 28.0,
+                    "Unit": "g/ton.mile"
+                },
+                "FTD": {
+                    "GHG": 27.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Biodiesel-20": {
+                    "GHG": 22.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Diesel-II": {
+                    "GHG": 9.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Gasoline": {
+                    "GHG": 4.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Gaseous-Hydrogen": {
+                    "GHG": 17.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Electricity": {
+                    "GHG": 6.0,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        },
+        "Marine": {
+            "HFO": {
+                "HFO-2.7": {
+                    "GHG": 16.48,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.5": {
+                    "GHG": 16.7,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.1": {
+                    "GHG": 16.75,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MDO": {
+                "MDO-1.92": {
+                    "GHG": 15.78,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.5": {
+                    "GHG": 15.92,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.1": {
+                    "GHG": 15.97,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MGO": {
+                "MGO-1": {
+                    "GHG": 15.85,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.5": {
+                    "GHG": 15.91,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.1": {
+                    "GHG": 15.96,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "LNG": {
+                "LNG": {
+                    "GHG": 15.56,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "FTD": {
+                "Natural-Gas": {
+                    "GHG": 18.25,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Coal": {
+                    "GHG": 20.77,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Natural-Gas": {
+                    "GHG": 11.81,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 0.96,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Renewable-Diesel": {
+                "YG&HFO": {
+                    "GHG": 8.78,
+                    "Unit": "g/ton.mile"
+                },
+                "YG": {
+                    "GHG": 2.47,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "SVO": {
+                "SVO": {
+                    "GHG": 2.37,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Bio-Oil": {
+                "PO-WB": {
+                    "GHG": 1.34,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Biodiesel": {
+                "Biodiesel": {
+                    "GHG": 5.44,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MeOH": {
+                "Natural-Gas": {
+                    "GHG": 22.66,
+                    "Unit": "g/ton.mile"
+                },
+                "FG": {
+                    "GHG": 1.32,
+                    "Unit": "g/ton.mile"
+                },
+                "RNG": {
+                    "GHG": -67.24,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 3.87,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        }
+    },
+    "2045": {
+        "Long_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 1237.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 1080.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 298.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 1313.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1194.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 1119.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1181.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 378.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Co-Optimized": {
+                "Algae-HTL": {
+                    "GHG": 430.6,
+                    "Unit": "g/mile"
+                },
+                "Wastewater-Sludge-HTL": {
+                    "GHG": 1050.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "MCCI": {
+                "Waste-Feedstock": {
+                    "GHG": 622.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 928.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1139.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Short_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 2536.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 2213.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 610.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 2690.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2498.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 2289.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2410.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 385.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 1074.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1318.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Rail": {
+            "Diesel-Electric": {
+                "Diesel": {
+                    "GHG": 26.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LNG": {
+                    "GHG": 23.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LPG": {
+                    "GHG": 22.0,
+                    "Unit": "g/ton.mile"
+                },
+                "DME": {
+                    "GHG": 28.0,
+                    "Unit": "g/ton.mile"
+                },
+                "FTD": {
+                    "GHG": 27.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Biodiesel-20": {
+                    "GHG": 22.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Diesel-II": {
+                    "GHG": 9.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Gasoline": {
+                    "GHG": 4.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Gaseous-Hydrogen": {
+                    "GHG": 17.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Electricity": {
+                    "GHG": 6.0,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        },
+        "Marine": {
+            "HFO": {
+                "HFO-2.7": {
+                    "GHG": 16.48,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.5": {
+                    "GHG": 16.69,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.1": {
+                    "GHG": 16.75,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MDO": {
+                "MDO-1.92": {
+                    "GHG": 15.78,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.5": {
+                    "GHG": 15.92,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.1": {
+                    "GHG": 15.97,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MGO": {
+                "MGO-1": {
+                    "GHG": 15.84,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.5": {
+                    "GHG": 15.9,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.1": {
+                    "GHG": 15.96,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "LNG": {
+                "LNG": {
+                    "GHG": 15.56,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "FTD": {
+                "Natural-Gas": {
+                    "GHG": 18.25,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Coal": {
+                    "GHG": 20.77,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Natural-Gas": {
+                    "GHG": 11.81,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 0.96,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Renewable-Diesel": {
+                "YG&HFO": {
+                    "GHG": 8.78,
+                    "Unit": "g/ton.mile"
+                },
+                "YG": {
+                    "GHG": 2.46,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "SVO": {
+                "SVO": {
+                    "GHG": 2.36,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Bio-Oil": {
+                "PO-WB": {
+                    "GHG": 1.32,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Biodiesel": {
+                "Biodiesel": {
+                    "GHG": 5.43,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MeOH": {
+                "Natural-Gas": {
+                    "GHG": 22.64,
+                    "Unit": "g/ton.mile"
+                },
+                "FG": {
+                    "GHG": 1.3,
+                    "Unit": "g/ton.mile"
+                },
+                "RNG": {
+                    "GHG": -67.36,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 3.86,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        }
+    },
+    "2050": {
+        "Long_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 1096.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 957.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 259.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 1162.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1050.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 994.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 1181.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 307.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Co-Optimized": {
+                "Algae-HTL": {
+                    "GHG": 386.46,
+                    "Unit": "g/mile"
+                },
+                "Wastewater-Sludge-HTL": {
+                    "GHG": 931.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "MCCI": {
+                "Waste-Feedstock": {
+                    "GHG": 550.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 789.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 962.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Short_Haul": {
+            "CIDI": {
+                "Diesel": {
+                    "GHG": 2425.0,
+                    "Unit": "g/mile"
+                },
+                "Biodiesel": {
+                    "GHG": 2116.0,
+                    "Unit": "g/mile"
+                },
+                "Renewable-Diesel": {
+                    "GHG": 573.0,
+                    "Unit": "g/mile"
+                },
+                "DME": {
+                    "GHG": 2571.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2391.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "SL": {
+                "CNG": {
+                    "GHG": 2190.0,
+                    "Unit": "g/mile"
+                },
+                "LNG": {
+                    "GHG": 2306.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Electric": {
+                "Electricity": {
+                    "GHG": 316.0,
+                    "Unit": "g/mile"
+                }
+            },
+            "Fuel-Cell": {
+                "GH2": {
+                    "GHG": 934.0,
+                    "Unit": "g/mile"
+                },
+                "LH2": {
+                    "GHG": 1139.0,
+                    "Unit": "g/mile"
+                }
+            }
+        },
+        "Rail": {
+            "Diesel-Electric": {
+                "Diesel": {
+                    "GHG": 26.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LNG": {
+                    "GHG": 23.0,
+                    "Unit": "g/ton.mile"
+                },
+                "LPG": {
+                    "GHG": 22.0,
+                    "Unit": "g/ton.mile"
+                },
+                "DME": {
+                    "GHG": 28.0,
+                    "Unit": "g/ton.mile"
+                },
+                "FTD": {
+                    "GHG": 27.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Biodiesel-20": {
+                    "GHG": 22.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Diesel-II": {
+                    "GHG": 9.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Renewable-Gasoline": {
+                    "GHG": 4.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Gaseous-Hydrogen": {
+                    "GHG": 16.0,
+                    "Unit": "g/ton.mile"
+                },
+                "Electricity": {
+                    "GHG": 6.0,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        },
+        "Marine": {
+            "HFO": {
+                "HFO-2.7": {
+                    "GHG": 16.46,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.5": {
+                    "GHG": 16.68,
+                    "Unit": "g/ton.mile"
+                },
+                "HFO-0.1": {
+                    "GHG": 16.73,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MDO": {
+                "MDO-1.92": {
+                    "GHG": 15.76,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.5": {
+                    "GHG": 15.9,
+                    "Unit": "g/ton.mile"
+                },
+                "MDO-0.1": {
+                    "GHG": 15.95,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MGO": {
+                "MGO-1": {
+                    "GHG": 15.82,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.5": {
+                    "GHG": 15.88,
+                    "Unit": "g/ton.mile"
+                },
+                "MGO-0.1": {
+                    "GHG": 15.94,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "LNG": {
+                "LNG": {
+                    "GHG": 15.55,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "FTD": {
+                "Natural-Gas": {
+                    "GHG": 18.25,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Coal": {
+                    "GHG": 20.74,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass-Natural-Gas": {
+                    "GHG": 11.8,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 0.92,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Renewable-Diesel": {
+                "YG&HFO": {
+                    "GHG": 8.77,
+                    "Unit": "g/ton.mile"
+                },
+                "YG": {
+                    "GHG": 2.45,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "SVO": {
+                "SVO": {
+                    "GHG": 2.35,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Bio-Oil": {
+                "PO-WB": {
+                    "GHG": 1.26,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "Biodiesel": {
+                "Biodiesel": {
+                    "GHG": 5.41,
+                    "Unit": "g/ton.mile"
+                }
+            },
+            "MeOH": {
+                "Natural-Gas": {
+                    "GHG": 22.6,
+                    "Unit": "g/ton.mile"
+                },
+                "FG": {
+                    "GHG": 1.27,
+                    "Unit": "g/ton.mile"
+                },
+                "RNG": {
+                    "GHG": -67.59,
+                    "Unit": "g/ton.mile"
+                },
+                "Biomass": {
+                    "GHG": 3.86,
+                    "Unit": "g/ton.mile"
+                }
+            }
+        }
+    }
+}
