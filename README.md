@@ -63,3 +63,7 @@ RECOIL GHG Life-cycle Emission Assessment Module (GLEAM)
 ### Example usage
 
 - See [`usage.ipynb`](usage.ipynb)
+
+# What's next
+- Add GLEAM to the RECOIL Backend API Services
+- Create a frontend companion tool for quick query
