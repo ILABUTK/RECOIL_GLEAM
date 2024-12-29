@@ -58,7 +58,7 @@ RECOIL GHG Life-cycle Emission Assessment Module (GLEAM)
 ## Notes
 
 - Negative GHG values indicate carbon savings or reductions.
-- Please refer to the [`GREET_Summary.pdf`](GREET_Summary.pdf) document for detailed explanations about engine and fuel technologies.
+- Please refer to the [`GREET_summary.pdf`](GREET_summary.pdf) document for detailed explanations about engine and fuel technologies.
 
 ### Example usage
 
