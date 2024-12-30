@@ -1,18 +1,18 @@
 # RECOIL_GLEAM
 
-RECOIL GHG Life-cycle Emission Assessment Module (GLEAM)
-
-# Metadata for GLEAM
+RECOIL GHG Life-cycle Emission Assessment Module (GLEAM). Developed by the RECOIL team at West Virginia University (WVU).
 
 ## Overview
 
    This dataset provides information about greenhouse gas (GHG) emissions from different transportation modes, engine technologies, and fuel types. The data are extracted from GREET 2023rev1. The data includes the following keys:
+   
      - `year`: 2025, 2030, 2035, 2040, 2045, and 2050.
      - `mode`: Describes the type of transportation.
      - `engine`: Specifies the technology used in the vehicle's engine.
      - `fuel`: Type of fuel used.
 
    Each record contains two fields:
+   
      - `GHG`: The greenhouse gas emissions associated with the fuel usage.
      - `Unit`: The unit of measurement for GHG emissions (e.g., g/miles, g/ton. miles, g/mm.Btu).
 
